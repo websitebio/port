@@ -7,7 +7,7 @@
 html {
     background-image: url('rocket.avif');
     position:centre;
-    min-height:5000;
+    min-height:10000;
     backgorund-size:cover;
     background-attachment:fixed;
     background-position: calc(50% - 0.75em)
