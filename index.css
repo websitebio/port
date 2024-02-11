@@ -248,3 +248,20 @@ html::before {
 .skills-list li.mongodb img {
   width: 3.5rem;
 }
+
+.project-card {
+  cursor: pointer;
+}
+
+.project-card:hover {
+  background-color: #2980b9;
+  box-shadow: 0 0 0 30px rgba(0, 230, 150, 0.2);
+  transition: all 200ms ease-out;
+  z-index: 5;
+}
+
+.project-card-img {
+  width: 10vw;
+  height: min(auto, 10vh);
+  border-radius:0.5vw;
+}
