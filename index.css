@@ -115,14 +115,14 @@ html::before {
 }
 
 .about-card .about-paragraph {
-  margin-top: 2rem;
+  margin-top: 5rem;
   background-color: #191a1c;
   font-family: Product Sans;
   font-size: 1.8rem;
   color: white;
   width: max(50vw, 300px);
   padding: 1rem;
-  top-padding: 0rem;
+  top-padding: 2rem;
   border-radius: 0.5rem;
 }
 
