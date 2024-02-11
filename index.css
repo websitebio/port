@@ -113,6 +113,11 @@ html::before {
   font-size: 3rem;
 }
 
+.section {
+  align-items:center;
+  top-padding: 1rem;
+}
+
 .about-card .about-paragraph {
   margin-top: 5rem;
   background-color: #191a1c;
