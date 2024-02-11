@@ -16,7 +16,7 @@ html {
     rgba(0, 0, 0, 0) 0%,
     rgba(0, 0, 0, 1) 80%
     );
-    overflow: hidden
+    overflow: hidden;
     scroll-behavior: smooth;
     /* Create the parallax scrolling effect */
     color-scheme: dark;
@@ -27,7 +27,7 @@ html::before {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 110%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.75);
     z-index: -1;
