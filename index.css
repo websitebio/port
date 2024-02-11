@@ -116,6 +116,7 @@ html::before {
 .section {
   align-items:center;
   top-padding: 1rem;
+  background-color: #3b3f47;
 }
 
 .about-card .about-paragraph {
